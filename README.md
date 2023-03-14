@@ -1,2 +1,3 @@
 # Industry
-Paper to ADVEI:Multi_task_Spatio_Temporal_augmented_Net_for_Industry_Equipment_Remaining_Useful_Life_Prediction
+Paper to ADVEI:
+Multi-task Spatio Temporal augmented Net for Industry Equipment Remaining Useful Life Prediction
